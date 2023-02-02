@@ -1,2 +1,2 @@
 # My-Site
- Somthing like Portfolio 2.0
+personal web site using basic html and css
